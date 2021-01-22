@@ -9,7 +9,7 @@ def boolean_to_string(b, c):
     elif (c) != False:
         print("False")
 
-boolean_to_string(True, False)
+boolean_to_string(b, c)
 
 
 
